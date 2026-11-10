@@ -1,6 +1,0 @@
-<resources>
-    <style name="Theme.AuroraScan" parent="android:Theme.Material.NoActionBar">
-        <item name="android:statusBarColor">#070A18</item>
-        <item name="android:windowBackground">#070A18</item>
-    </style>
-</resources>
